@@ -1,6 +1,6 @@
 ## Hi there, I'm Antonio 👋
 
-- 🌏 I'm Currently based in Melbourne,Australia
+- 🌏 I'm currently based in Melbourne,Australia
 - 🔭 I’m currently studying Electrical and Computer Systems Engineering at Monash University
 - 🏢 I'm on an internship under Data Science and Artificial Intelligence Department, building a GAN model to generate humanoid collage art from construction tool parts 
 - 📖 I'm a deep learning engineer and a part of the training team at Monash DeepNeuron
