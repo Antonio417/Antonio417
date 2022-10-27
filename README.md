@@ -8,5 +8,5 @@
 - ⚡ Things I love beside Coding: 
   *	Songwriting 🎸 
   * Basketball 🏀 
-  * Watch random movies 🍿 
+  * Play Online Games 🎮 
 
