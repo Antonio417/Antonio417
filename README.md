@@ -5,9 +5,10 @@ I'm Antonio, a final year student undertaking Bachelor of Electrical and Compute
 ### 🔥 About Me in 30 Secs 🔥
 - 🌏 I'm currently based in Melbourne,Australia
 - 🔭 I’m a self-taught Data Analyst 
+- 📝 Taught myself SQL, Excel, Python and Tableau
 - 🏢 I'm on an internship under Data Science and Artificial Intelligence Department at Monash University, building a GAN model to generate humanoid collage art from construction tool parts 
 - 📖 I'm a deep learning engineer and a part of the training team at Monash DeepNeuron
-- 📝 Taught myself SQL, Python and Tableau
+
 
 ### 📚 Personal Projects 📚
 - Here is my Data Analytics Portfolio, CLICK **[HERE](https://github.com/Antonio417/Data_Analyst_Portfolio)**
