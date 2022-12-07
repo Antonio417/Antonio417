@@ -18,7 +18,7 @@ I'm Antonio, a final year student undertaking Bachelor of Electrical and Compute
 - Python, SQL, Excel and Tableau
 - Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 - Implementing Machine Learning models to solve real-life problems
-- Machine Learning: Regression, Classification and Clustering
+- Machine Learning: Supervised, Unsupervised and Reinforcement Learning
 - Computer Vision: Image Segmentation, Image Classification and Object Detection 
 - Experienced in using Pandas, Numpy, PyTorch, Keras, and TensorFlow 
 
