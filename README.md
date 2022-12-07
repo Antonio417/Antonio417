@@ -3,11 +3,12 @@
 I'm Antonio, a final year student undertaking Bachelor of Electrical and Computer Systems Engineering at Monash University.
 
 ### 🔥 About Me in 30 Secs 🔥
-- 🌏 I'm currently based in Melbourne,Australia
-- 🔭 I’m a self-taught Data Analyst 
+- 🌏 I'm based in Melbourne,Australia
+- 🔭 I’m a self-taught Data Analyst and Machine Learning Engineer
 - 📝 Taught myself SQL, Excel, Python and Tableau
 - 🏢 I'm on an internship under Data Science and Artificial Intelligence Department at Monash University, building a GAN model to generate humanoid collage art from construction tool parts 
 - 📖 I'm a deep learning engineer and a part of the training team at Monash DeepNeuron
+- 🩻 Currently building a deep learning model that classify human sperm cells based on the morphological characteristics of their head and tail using labelled images taken under a microscope.
 
 
 ### 📚 Portfolio 📚
@@ -21,10 +22,6 @@ I'm Antonio, a final year student undertaking Bachelor of Electrical and Compute
 - Machine Learning: Supervised, Unsupervised and Reinforcement Learning
 - Computer Vision: Image Segmentation, Image Classification and Object Detection 
 - Experienced in using Pandas, Numpy, PyTorch, Keras, and TensorFlow 
-
-### ⚡️ Currently ⚡️
-- Learning Data Analytics 
-- Brushing up on SQL and Relational Database
 
 ### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/antonio-fernando-christophorus/)
