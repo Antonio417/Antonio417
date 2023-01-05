@@ -16,7 +16,7 @@ I'm Antonio, a final year student undertaking Bachelor of Electrical and Compute
 - Computer Vision 👀 and Machine Learning 🤖 Portfolio, **CLICK [HERE](https://github.com/Antonio417/Computer_Vision_and_Machine_Learning_Portfolio)**
 
 ### 💡 Core Competencies 💡
-- Python, SQL, Excel and Tableau
+- Python, SQL, Excel 
 - Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 - Implementing Machine Learning models to solve real-life problems
 - Machine Learning: Supervised, Unsupervised and Reinforcement Learning
