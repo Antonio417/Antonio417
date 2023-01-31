@@ -10,8 +10,8 @@ I'm Antonio, a final year student undertaking Bachelor of Electrical and Compute
 
 
 ### 📚 Portfolio 📚
-- Data Analytics 📈 Portfolio, CLICK **[HERE](https://github.com/Antonio417/Data_Analyst_Portfolio)**
 - Computer Vision 👀 and Machine Learning 🤖 Portfolio, **CLICK [HERE](https://github.com/Antonio417/Computer_Vision_and_Machine_Learning_Portfolio)**
+- Data Analytics 📈 Portfolio, CLICK **[HERE](https://github.com/Antonio417/Data_Analyst_Portfolio)**
 
 ### 💡 Core Competencies 💡
 - Python, SQL, Excel 
