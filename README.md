@@ -4,7 +4,7 @@ I'm Antonio, a final year student undertaking Bachelor of Electrical and Compute
 
 ### 🔥 About Me in 30 Secs 🔥
 - 🌏 I'm based in Melbourne,Australia
-- 📖 I'm a deep learning engineer and a part of the training team at Monash DeepNeuron
+- 📖 I'm a deep learning engineer and taking part in the training sub-team researching content, providing workshops for both internal and external audiences, promoting technical knowledge and interest in AI and HPC field
 - 🏢 I did an internship under Data Science and Artificial Intelligence Department at Monash University, building a GAN model to generate humanoid collage art from construction tool parts 
 - 🩻 Currently building a deep learning model that classify human sperm cells based on the morphological characteristics of their head and tail using labelled microscopic images or videos of sperm.
 
